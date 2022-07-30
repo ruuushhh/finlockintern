@@ -1,0 +1,37 @@
+{
+  "name": "whois",
+  "version": "1.0.0",
+  "description": "Express server for finlock",
+  "main": "server.js ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "JavaScript",
+    "JS"
+  ],
+  "author": "Rushikesh Tayade",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "change-case": "^4.1.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "helmet": "^5.1.1",
+    "html-entities": "^2.3.3",
+    "moment": "^2.29.4",
+    "mysql": "^2.18.1",
+    "os": "^0.1.2",
+    "tldjs": "^2.3.1",
+    "underscore": "^1.13.4",
+    "util": "^0.12.4",
+    "whois": "^2.13.9",
+    "whois-json": "^2.0.4",
+    "xregexp": "^5.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
